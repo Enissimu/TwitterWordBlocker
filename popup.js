@@ -11,3 +11,4 @@ document.getElementById('clickactivity').addEventListener('click', injectTheScri
 document.addEventListener("click", (event) => {
     console.log(event.offsetX, event.offsetY);
   });
+  
