@@ -1,0 +1,23 @@
+body{
+background-color: #999999;
+
+}
+
+button{
+
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
+.parent{
+    display: flex;
+    height: 300px;
+}
